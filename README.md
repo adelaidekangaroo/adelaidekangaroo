@@ -1,4 +1,4 @@
-### Hi, everybody 👋, hi, doctor nic... hm, stop)
+### Hi, everybody 👋
 ⚡ I'am: ...
 - ✨ Java Middle Developer (5+ years of learning Java)
 - ✨ Writer (short stories)
