@@ -1,6 +1,6 @@
 ### Hi, everybody 👋
 ⚡ I'am: ...
-- ✨ Java Middle Developer in MTS Smart Home
+- ✨ Java Middle Developer in [MTS Smart Home](https://mts-digital.ru/) (IoT)
 - ✨ Writer (short stories, screenplays)
 - ✨ Sellerman from Dunder Mifflin Paper Company, Inc. (in the past)
 
