@@ -3,4 +3,4 @@
 ⚡️ [CV](https://adelaidekangaroo.github.io/) <br/>
 ⚡️ [LinkedIn](https://www.linkedin.com/in/sergey-simonov-81b576245/?locale=en_US)<br/>
 
-<img src="/qr-code_shining.png" width=35% height=35%/>
+<img src="/qr-code_shining_2.png" width=35% height=35%/>
